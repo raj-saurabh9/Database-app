@@ -1,3 +1,5 @@
+A web application to store information for members of any institution(can be students)
+User can view, add or delete information for any particular student.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
